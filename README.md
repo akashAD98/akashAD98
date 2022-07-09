@@ -34,7 +34,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## Pytorch,Onnx,Tensorrt,Detectron2,Darknet,Neural Magic
 
-📊 **I worked in this topics:**
+📊 **I worked on this topics:**
 <!--START_SECTION:waka-->
 
 ```text
