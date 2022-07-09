@@ -14,7 +14,7 @@
 
 <br />
 
-Passionate self-taught Data scientist  and a computer vision engineer from india. my passion for data science lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Passionate self-taught Data scientist  and a computer vision engineer from india.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -49,6 +49,8 @@ segmention- faster rcnn,unet
 
 optimisation tool-Tensorrt,onnx,Neural magic
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashAD98)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
