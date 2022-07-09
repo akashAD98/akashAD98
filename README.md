@@ -35,13 +35,20 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ## Pytorch,Onnx,Tensorrt,Detectron2,Darknet,Neural Magic
 
-📊 **this week i spent my time on:**
+📊 **I worked in this topics:**
 <!--START_SECTION:waka-->
 
 ```text
-python   9 hrs 42 mins      ███████████████████████░░   91.48 %
-opencv      31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Other       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Object detection -Darknet-yolov3,yolov4,yolov5,yolov6,yolov7,
+tensorflow-resnet,mobilenet,ssd  tensorflow model zoo,detectron2-faster rcnn,mask rcnn,      
+
+object tracking -deep sort,strong sort,sort   
+
+image classification -vgg16,resnet,alexnet,efficientnetv1,efficientnetv2  10 mins         
+
+segmention- faster rcnn,unet
+
+optimisation tool-Tensorrt,onnx,Neural magic
 ```
 
 <!--END_SECTION:waka-->
