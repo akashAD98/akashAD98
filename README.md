@@ -50,7 +50,6 @@ segmention- faster rcnn,unet
 optimisation tool-Tensorrt,onnx,Neural magic
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashAD98)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
