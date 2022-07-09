@@ -1,4 +1,5 @@
-### hey there 
+#### hey there ...
+### I'm Akash_Desai 
 
 <a href="https://www.instagram.com/akash_a_desai/">
   <img align="left" alt="Akash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -11,11 +12,9 @@
   <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-
-
 <br />
 
-hi, i'm [Akash Desai ](https://abhishknads.me/), a passionate self-taught Data scientist  and a computer vision engineer from india. my passion for data science lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Passionate self-taught Data scientist  and a computer vision engineer from india. my passion for data science lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -37,7 +36,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-python   9 hrs 42 mins   ███████████████████████░░   91.48 %
+python   9 hrs 42 mins      ███████████████████████░░   91.48 %
 opencv      31 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
 Other       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
