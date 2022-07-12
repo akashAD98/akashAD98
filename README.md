@@ -41,8 +41,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <img width="65px" align="left" style="padding: 20px" src="images/neural_magic.png" />
 <!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
 <img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
-<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
-<img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
+
 </div>
 
 ## Pytorch,Onnx,Tensorrt,Detectron2,Darknet,Neural Magic
