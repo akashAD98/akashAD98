@@ -33,6 +33,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
+<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
+<img width="55px" align="left" style="padding: 20px" src="images/bktrt.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
+<img width="65px" align="left" style="padding: 20px" src="images/neural_magic.png" />
+<!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
+<img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/opencv.png"/>
+<img width="60px" align="left" style="padding: 20px" src="images/tensorflow.png" />
+</div>
+
 ## Pytorch,Onnx,Tensorrt,Detectron2,Darknet,Neural Magic
 
 📊 **I worked on this topics:**
