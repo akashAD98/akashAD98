@@ -44,7 +44,7 @@ tensorflow-resnet,mobilenet,ssd  tensorflow model zoo,detectron2-faster rcnn,mas
 
 object tracking -deep sort,strong sort,sort   
 
-image classification -vgg16,resnet,alexnet,efficientnetv1,efficientnetv2  10 mins         
+image classification -vgg16,resnet,alexnet,efficientnetv1,efficientnetv2,inceptionnet v1,v2       
 
 segmention- faster rcnn,unet
 
