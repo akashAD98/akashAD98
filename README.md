@@ -45,7 +45,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ### My Open source contribution
 
-```yolov5: added different ssttension mechanisms ```
+```yolov5: added different attension mechanisms ```
 
 ```yolov6: Added onnx to .trt (with nms / without nms ) support & video/image inference  ```
 
