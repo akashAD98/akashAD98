@@ -6,10 +6,10 @@
   <img align="left" alt="Akash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 
-<a href="https://twitter.com/1998@aks2">
+<a href="https://twitter.com/akashdai">
   <img align="left" alt="Akash Desai | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/akash-desai-1b482b196">
+<a href="https://www.linkedin.com/in/akash-desai-1b482b196/">
   <img align="left" alt="Akash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
