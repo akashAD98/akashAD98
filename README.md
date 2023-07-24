@@ -48,6 +48,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 DragGan - Collab support forrunning code on google collab + gradio
 ```
 
+'Pytorch Gradcam - Support for custom model & output folder path'
+
 📊 **I worked on this topics:**
 <!--START_SECTION:waka-->
 
