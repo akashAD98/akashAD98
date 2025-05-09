@@ -53,8 +53,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **I worked on this topics:**
 <!--START_SECTION:waka-->
 
-Agents , RAG ,tools, langchian ,lamaindex ,MCP , Vectordatabase -Lancedb ,weaviate , CICD deployments 
+
 ```text,
+Agents , RAG ,tools, langchian ,lamaindex ,MCP , Vectordatabase -Lancedb ,weaviate , CICD deployments
+
 Object detection -Darknet-yolov3,yolov4,yolov5,yolov6,yolov7,
 tensorflow-resnet,mobilenet,ssd  tensorflow model zoo,detectron2-faster rcnn,mask rcnn,      
 
