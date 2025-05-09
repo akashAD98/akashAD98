@@ -8,6 +8,7 @@
 
 Passionate self-taught AI engineer / computer vision engineer from india.
 
+
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
@@ -34,7 +35,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </div>
 
 
-### My Open source contribution
+### My open-source contribution
 
 ```yolov5: support for testing,saving results in csv file ```
 
@@ -52,7 +53,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **I worked on this topics:**
 <!--START_SECTION:waka-->
 
-```text
+Agents , RAG ,tools, langchian ,lamaindex ,MCP , Vectordatabase -Lancedb ,weaviate , CICD deployments 
+```text,
 Object detection -Darknet-yolov3,yolov4,yolov5,yolov6,yolov7,
 tensorflow-resnet,mobilenet,ssd  tensorflow model zoo,detectron2-faster rcnn,mask rcnn,      
 
